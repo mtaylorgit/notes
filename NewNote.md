@@ -5,17 +5,28 @@
 ### Heading level 3
 
 I just love **bold text**.
-I just love __bold text__.
-Love**is**bold
+
 
 Italicized text is the *cat's meow*.
 A*cat*meow
 
-This text is ***really important***.
-This is really***very***important text.
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+#### Ordered lists
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
 
->  Dorothy followed her through many of the beautiful rooms in her castle.
->
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+#### UnOrdered Lists
+- First item
+- Second item
+- Third item
+- Fourth item 
+
+
+Linking to websites
+[link text](url)
+
+
+images
+![alt text](url)
